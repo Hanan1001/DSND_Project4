@@ -14,3 +14,7 @@ we tried three models and evaluated two models.
 The results were intrigunig and gave us an insight on the factors impacting price.
 ### Acknowledgements
 I would like to give my gratitude to MiSK Academy for giving me the opportunity to pursure the DSND and my gratiture to the team at Udacity for their hardwork and efforts in cooredinating such a program. 
+
+
+Required blog post for the non-technical folks: 
+https://dosarih2.wixsite.com/website/post/feast-your-eyes-on-the-world-of-data-science
